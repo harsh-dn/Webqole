@@ -45,5 +45,5 @@ export const articles = [
         'On the occasion of Safer Internet Day 2021, TECHx spoke with Pixcom CEO, Shihas Kizhisseri. During the interview... ',
       body:
         'Shihas highlighted how IoT adoption is posing cybersecurity challenges for businesses, what are the internet-based threats and disruption in digitalization, most important for businesses to be aware of in 2021',
-    },
+    }
   ]
